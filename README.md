@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi! I'm Gayeong😋
+<br/><br/>
+
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=um5605)
+![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayeong&show_icons=true&theme=buefy)
+
+<br/>
+<h2> My tech Stack 💻 <h2>
+
+![JAVA](https://img.shields.io/badge/-JAVA-brightgreen)
 
 <!--
 **GayeongEom/GayeongEom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
