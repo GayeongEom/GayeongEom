@@ -1,8 +1,10 @@
-# Hi! I'm Gayeong😋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=250&text=Welcome%20to%2002Java&animation=twinkling&fontColor=f3f6f4&fontAlignY=40)
+***
+
 <br/><br/>
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=um5605)
-![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayeong&show_icons=true&theme=buefy)
+ ![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayeong&show_icons=true&theme=buefy) <p>[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=um5605)](https://solved.ac/um5605) 
 
 <br/>
 <h2> My tech Stack 💻 <h2>
