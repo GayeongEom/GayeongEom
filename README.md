@@ -3,8 +3,8 @@
 
 <br/><br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?GayeongEom=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GayeongEom=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GayeongEom&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GayeongEom](https://github.com/anuraghazra/github-readme-stats)
  
  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=um5605)](https://solved.ac/um5605) 
 
