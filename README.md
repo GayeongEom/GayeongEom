@@ -3,8 +3,9 @@
 
 <br/><br/>
 
- ![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayeong&show_icons=true&theme=buefy) <p>[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=um5605)](https://solved.ac/um5605) 
+ ![GayeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=GayeonEom&show_icons=true&theme=buefy) <p>
+ 
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=um5605)](https://solved.ac/um5605) 
 
 <br/>
 <h2> My tech Stack 💻 <h2>
