@@ -11,6 +11,7 @@
 <h2> My tech Stack 💻 <h2>
 
 ![JAVA](https://img.shields.io/badge/-JAVA-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-Oracle%20SQL-lightblue)
 
 <!--
 **GayeongEom/GayeongEom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
