@@ -13,4 +13,6 @@
 <a href="https://velog.io/@um565"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io"/></a>
 <a href="https://diagnostic-waterfall-06a.notion.site/65d6c85e268840fda292ce30667ef498?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.com"/></a>
 
+![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=GayeongEom&show_icons=true&theme=shadow_blue)
+
 </div>
